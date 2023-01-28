@@ -16,9 +16,18 @@ string[] array = new string[count];
     return array;
 }
 
+void PrintArray(string[] matr)
+{
+    System.Console.WriteLine();
+    for(int i = 0; i < matr.Length; i++)
+    {
+        Console.Write(matr[i] + " ");
+    }
 
+}
 
 
 
 int ElementsCount=ReadInt("Введите количество элементов массива: ");
 string [] array = Zapolnenie(ElementsCount);
+PrintArray(array);
