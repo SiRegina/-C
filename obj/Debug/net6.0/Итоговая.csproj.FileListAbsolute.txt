@@ -1,0 +1,15 @@
+C:\дз\c#\Итоговая\-C\bin\Debug\net6.0\Итоговая.exe
+C:\дз\c#\Итоговая\-C\bin\Debug\net6.0\Итоговая.deps.json
+C:\дз\c#\Итоговая\-C\bin\Debug\net6.0\Итоговая.runtimeconfig.json
+C:\дз\c#\Итоговая\-C\bin\Debug\net6.0\Итоговая.dll
+C:\дз\c#\Итоговая\-C\bin\Debug\net6.0\Итоговая.pdb
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.csproj.AssemblyReference.cache
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.AssemblyInfoInputs.cache
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.AssemblyInfo.cs
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.csproj.CoreCompileInputs.cache
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.dll
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\refint\Итоговая.dll
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.pdb
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\Итоговая.genruntimeconfig.cache
+C:\дз\c#\Итоговая\-C\obj\Debug\net6.0\ref\Итоговая.dll

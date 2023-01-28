@@ -21,13 +21,30 @@ void PrintArray(string[] matr)
     System.Console.WriteLine();
     for(int i = 0; i < matr.Length; i++)
     {
-        Console.Write(matr[i] + " ");
+        Console.Write(matr[i] + "   ");
     }
 
 }
 
+string [] NewArray (string []array)
+{
+    int count = 0;
+    string [] newArray = new string[array.Length];
+    for (int i = 0; i < array.Length; i++)
+    {
+        if(array[i].Length<=3)
+        {
+            newArray[count] = array[i];
+            count++;
+        }
+    }
+    return newArray;
+}
 
 
 int ElementsCount=ReadInt("Введите количество элементов массива: ");
 string [] array = Zapolnenie(ElementsCount);
 PrintArray(array);
+System.Console.WriteLine();
+string [] array2 = NewArray(array);
+PrintArray(array2);

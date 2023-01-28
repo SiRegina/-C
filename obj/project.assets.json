@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\дз\\c#\\Итоговая\\Итоговая.csproj",
+      "projectUniqueName": "C:\\дз\\c#\\Итоговая\\-C\\Итоговая.csproj",
       "projectName": "Итоговая",
-      "projectPath": "C:\\дз\\c#\\Итоговая\\Итоговая.csproj",
+      "projectPath": "C:\\дз\\c#\\Итоговая\\-C\\Итоговая.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\дз\\c#\\Итоговая\\obj\\",
+      "outputPath": "C:\\дз\\c#\\Итоговая\\-C\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
